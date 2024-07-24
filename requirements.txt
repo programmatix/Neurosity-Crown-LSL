@@ -1,0 +1,4 @@
+pylsl
+mne
+numpy
+edfio
